@@ -1,0 +1,10 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+input{
+  width: 100px;
+  margin-left: 50%;
+  height: 100px;
+}
